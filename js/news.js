@@ -121,6 +121,7 @@ const newsArray = [
   ],
   [":angry: -Dasani"],
   ['Petition to call F notation "Science Fiction Notation"'],
+  ["BREAKING NEWS: A VERSION OF PLAGUE TREE (VORONA CIRUS TREESEASE) WITH ACTUAL DECENT AMOUNTS OF OFFLINE PROGRESS HAS BEEN MADE!"],
 ];
 setTimeout(() => {
   ticker = document.getElementById("newsContent");
