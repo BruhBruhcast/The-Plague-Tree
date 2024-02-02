@@ -8,7 +8,7 @@ let modInfo = {
 	discordLink: "",
 	changelogLink: "https://github.com/Acamaeda/The-Modding-Tree/blob/master/changelog.md",
 	initialStartPoints: new Decimal (1), // Used for hard resets and new players
-	offlineLimit: 0.05,  // In hours
+	offlineLimit: 876000,  // In hours
 }
 
 // Set your version in num and name
