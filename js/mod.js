@@ -1,14 +1,14 @@
 let modInfo = {
-	name: "Plague Tree (Vorona Cirus Treesease)",
+	name: "Plague Tree with offline progress",
 	id: "c0v1d",
-	author: "Vorona",
+	author: "BruhBruhcast (original by Vorona)",
 	pointsName: "cases",
     pointsNameSingular: "case",
-	discordName: "",
+	discordName: "Vorona's Discord",
 	discordLink: "",
 	changelogLink: "https://github.com/Acamaeda/The-Modding-Tree/blob/master/changelog.md",
 	initialStartPoints: new Decimal (1), // Used for hard resets and new players
-	offlineLimit: 876000,  // In hours
+	offlineLimit: 99999999999999999999999999999999,  // In hours
 }
 
 // Set your version in num and name
